@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "id": "mr7ub6vl9r6w9",
+      "name": "【🎀MilkyRibbonMaid🎀】ミルキーリボンメイド 16アバター対応Radiant-iseo",
+      "shop": "Radiant-iseo",
+      "url": "https://booth.pm/ko/items/8083295",
+      "img": "https://booth.pximg.net/08a099c5-9417-496e-a871-50778d1832b0/i/8083295/5339c16a-d834-4d96-bb01-f81182d12c48_base_resized.jpg",
+      "releaseDate": "2026-03-20",
+      "category": "의상",
+      "charTags": []
+    },
+    {
+      "id": "mr7u9qzp31k5s",
+      "name": "【🎀MilkyRibbonMaid🎀】ミルキーリボンメイド 16アバター対応Radiant-iseo",
+      "shop": "Radiant-iseo",
+      "url": "https://booth.pm/ko/items/8083295",
+      "img": "https://booth.pximg.net/08a099c5-9417-496e-a871-50778d1832b0/i/8083295/5339c16a-d834-4d96-bb01-f81182d12c48_base_resized.jpg",
+      "releaseDate": "2026-03-20",
+      "category": "의상",
+      "charTags": [
+        "루미나",
+        "시오",
+        "밀티나",
+        "아이리",
+        "마누카",
+        "쇼콜라",
+        "밀피",
+        "시나노",
+        "마요",
+        "퓨엣"
+      ]
+    },
+    {
       "id": "mq17iar8i5zqb",
       "name": "✨【9アバター対応】 Toko Twintail Hair",
       "shop": "DanaStudio",
@@ -4054,6 +4085,7 @@
     "시오",
     "아이리",
     "키펠",
-    "퓨엣"
+    "퓨엣",
+    "플럼"
   ]
 }
