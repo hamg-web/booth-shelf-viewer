@@ -1,6 +1,137 @@
 {
   "items": [
     {
+      "id": "msbixn7w5277m",
+      "name": "Chapter One -Lily‘s secret",
+      "shop": "iBuchoki",
+      "url": "https://booth.pm/ko/items/8544244",
+      "img": "https://booth.pximg.net/18af6881-f3ab-46aa-9949-4d215acf7b37/i/8544244/42996f13-b7bd-4f9e-a4c0-e322bb5b82d1_base_resized.jpg",
+      "releaseDate": "2026-06-25",
+      "category": "의상",
+      "charTags": [
+        "마누카",
+        "밀피",
+        "밀티나",
+        "시오",
+        "마요",
+        "쇼콜라",
+        "플럼",
+        "시나노",
+        "아이리",
+        "루미나"
+      ]
+    },
+    {
+      "id": "msbiwuby9kwby",
+      "name": "🔫 TeddySplashVenom 🧸",
+      "shop": "Drug♡Angel",
+      "url": "https://booth.pm/ko/items/7021779",
+      "img": "https://booth.pximg.net/4a485678-463a-4c4f-b751-be29b75411f9/i/7021779/e291a227-59eb-4c2b-926f-a5c04c3a750e_base_resized.jpg",
+      "releaseDate": "2025-06-23",
+      "category": "의상",
+      "charTags": [
+        "시나노"
+      ]
+    },
+    {
+      "id": "msbiw34nxm9rf",
+      "name": "NaturalGazeHair021",
+      "shop": "Natural Gaze",
+      "url": "https://booth.pm/ko/items/8092792",
+      "img": "https://booth.pximg.net/49a6efae-88ef-4d0f-8c85-c95c1efbbb5f/i/8092792/06c5caf0-6232-4324-a471-670588eb8e50_base_resized.jpg",
+      "releaseDate": "2026-03-18",
+      "category": "헤어",
+      "charTags": [
+        "아이리",
+        "루미나",
+        "마누카",
+        "밀피",
+        "밀티나",
+        "시나노"
+      ]
+    },
+    {
+      "id": "msbiv4wgc55h2",
+      "name": "𝐏♡𝐏.𝐇𝐚𝐢𝐫 𝟏𝟖",
+      "shop": "P♡P.Hair",
+      "url": "https://booth.pm/ko/items/8614517",
+      "img": "https://booth.pximg.net/b8ab9495-6923-449f-9757-0950a5895528/i/8614517/8f49bdeb-d884-4ca3-80d2-5423ffa6a159_base_resized.jpg",
+      "releaseDate": "2026-07-19",
+      "category": "헤어",
+      "charTags": [
+        "시나노",
+        "마누카",
+        "아이리",
+        "쇼콜라",
+        "플럼",
+        "밀티나",
+        "밀피",
+        "루미나",
+        "시오",
+        "마요"
+      ]
+    },
+    {
+      "id": "msbitxz4dljjs",
+      "name": "♡ 𝓖𝓪𝓫𝓻𝓲𝓮𝓵 ♡",
+      "shop": "PINK♡PUDDING",
+      "url": "https://booth.pm/ko/items/8614516",
+      "img": "https://booth.pximg.net/e2febaba-cfd6-4285-86fa-a25e19651f9d/i/8614516/c92d7dd0-f732-4d83-a972-dc99c5ec5f3c_base_resized.jpg",
+      "releaseDate": "2026-07-18",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "밀티나",
+        "아이리",
+        "쇼콜라",
+        "플럼",
+        "밀피",
+        "마누카",
+        "루미나",
+        "시오",
+        "마요"
+      ]
+    },
+    {
+      "id": "msbisrzb0ojg2",
+      "name": "Girly Edit | Balletcore Casual Outfit 🎀",
+      "shop": "NANAMO",
+      "url": "https://booth.pm/ko/items/8589350",
+      "img": "https://booth.pximg.net/2b5aa134-fd80-400a-bc6f-d7a0193ce6a0/i/8589350/eba6e399-d4c7-4bba-88f0-885c4629e687_base_resized.jpg",
+      "releaseDate": "2026-07-09",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "마요",
+        "밀피",
+        "쇼콜라",
+        "플럼",
+        "시오",
+        "마누카",
+        "밀티나",
+        "루미나",
+        "아이리"
+      ]
+    },
+    {
+      "id": "msbiril3be8sc",
+      "name": "★Lemon Frame Hair ★",
+      "shop": "Yune-Yune",
+      "url": "https://booth.pm/ko/items/7626025",
+      "img": "https://booth.pximg.net/1339a8a2-70bf-40d4-b3c1-fd0156ed6365/i/7626025/8bd64dd6-ef7b-4029-827e-19cabb6439be_base_resized.jpg",
+      "releaseDate": "2025-11-07",
+      "category": "헤어",
+      "charTags": [
+        "밀티나",
+        "밀피",
+        "쇼콜라",
+        "시나노",
+        "시오",
+        "마누카",
+        "아이리"
+      ]
+    },
+    {
       "id": "mr7xceh71clgp",
       "name": "【17アバター対応】 𝐋𝐕.𝟏𝟔 Yoi_Koi 🎐",
       "shop": "LookVook",
@@ -1201,25 +1332,6 @@
       ]
     },
     {
-      "id": "mq16b8de8aepz",
-      "name": "【VRC Hair】Floria Hair【9 Avatars】",
-      "shop": "Pocopoko",
-      "url": "https://booth.pm/ko/items/8430557",
-      "img": "https://booth.pximg.net/363e1f54-ef51-46ea-a7fc-455edd3bd227/i/8430557/c4a5da46-5ba5-4da7-b83d-744bd81beaaa_base_resized.jpg",
-      "releaseDate": "2026-05-30",
-      "category": "헤어",
-      "charTags": [
-        "마누카",
-        "시나노",
-        "시오",
-        "밀피",
-        "밀티나",
-        "쇼콜라",
-        "마요",
-        "루미나"
-      ]
-    },
-    {
       "id": "mq16aekydlxg7",
       "name": "【Noir Elegance nail】ノワール エレガンスネイル13アバター対応Radiant-iseo",
       "shop": "Radiant-iseoAC",
@@ -1247,59 +1359,6 @@
         "밀티나",
         "시나노",
         "시오"
-      ]
-    },
-    {
-      "id": "mq1686jqabdfi",
-      "name": "[18アバター対応] Sunny Blossom Set 🎀",
-      "shop": "NANAMO",
-      "url": "https://booth.pm/ko/items/8384383",
-      "img": "https://booth.pximg.net/2b5aa134-fd80-400a-bc6f-d7a0193ce6a0/i/8384383/68774c72-1a90-4eae-b59e-95256ab39997_base_resized.jpg",
-      "releaseDate": "2026-05-20",
-      "category": "의상",
-      "charTags": [
-        "시나노",
-        "루미나",
-        "밀티나",
-        "마요",
-        "시오",
-        "마누카",
-        "아이리",
-        "밀피",
-        "쇼콜라"
-      ]
-    },
-    {
-      "id": "mq1672n0d4dwk",
-      "name": "🌸🌷Flower Garden🌷🌸 [23Avatars] Misaki [Update]",
-      "shop": "DARLING CLOTHING",
-      "url": "https://booth.pm/ko/items/8299065",
-      "img": "https://booth.pximg.net/3c2a2c11-4119-42d8-9079-30df136a5405/i/8299065/f2f0109c-adc7-4ba4-9d4f-47113b71aeff_base_resized.jpg",
-      "releaseDate": "2026-05-04",
-      "category": "의상",
-      "charTags": [
-        "마누카"
-      ]
-    },
-    {
-      "id": "mq166hn7hrg2d",
-      "name": "【🎀MilkyRibbonMaid🎀】ミルキーリボンメイド 16アバター対応Radiant-iseo",
-      "shop": "Radiant-iseo",
-      "url": "https://booth.pm/ko/items/8083295",
-      "img": "https://booth.pximg.net/08a099c5-9417-496e-a871-50778d1832b0/i/8083295/5339c16a-d834-4d96-bb01-f81182d12c48_base_resized.jpg",
-      "releaseDate": "2026-03-20",
-      "category": "의상",
-      "charTags": [
-        "퓨엣",
-        "마요",
-        "시나노",
-        "밀피",
-        "쇼콜라",
-        "마누카",
-        "아이리",
-        "밀티나",
-        "시오",
-        "루미나"
       ]
     },
     {
