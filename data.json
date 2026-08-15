@@ -1,6 +1,183 @@
 {
   "items": [
     {
+      "id": "msujy4t1yc911",
+      "name": "Side Half Bun",
+      "shop": "Eoshop",
+      "url": "booth.pm/ko/items/8688932",
+      "img": "https://booth.pximg.net/e099eff3-f1a5-450d-a0ec-796ef6da9778/i/8688932/f4fce547-4b47-44d6-ba78-0a4a8da1912a_base_resized.jpg",
+      "releaseDate": "2026-08-14",
+      "category": "헤어",
+      "charTags": [
+        "마누카",
+        "시나노",
+        "쇼콜라",
+        "아이리",
+        "밀티나",
+        "밀피",
+        "루미나",
+        "시오",
+        "마요"
+      ]
+    },
+    {
+      "id": "msujwo12ssng6",
+      "name": "booth.pm/ko/items/7337655",
+      "shop": "Midnight",
+      "url": "YM STORE",
+      "img": "https://booth.pximg.net/1e846578-b646-4d35-8cf6-85e167590721/i/7337655/a9b7ae3f-3ddf-43ed-a4af-7832ede2e0a6_base_resized.jpg",
+      "releaseDate": "2025-08-23",
+      "category": "헤어",
+      "charTags": [
+        "마요",
+        "플럼",
+        "루미나",
+        "밀티나",
+        "밀피",
+        "시나노",
+        "아이리",
+        "마누카",
+        "셀레스티아",
+        "시오",
+        "쇼콜라"
+      ]
+    },
+    {
+      "id": "msujvkhjfc555",
+      "name": "🐾 Puppy Mallow 🐾",
+      "shop": "YM STORE",
+      "url": "booth.pm/ko/items/8341478",
+      "img": "https://booth.pximg.net/1e846578-b646-4d35-8cf6-85e167590721/i/8341478/22fc3e5e-c465-4554-a812-9fa624f52116_base_resized.jpg",
+      "releaseDate": "2026-05-10",
+      "category": "헤어",
+      "charTags": [
+        "마요",
+        "쇼콜라",
+        "퓨엣",
+        "루미나",
+        "시오",
+        "플럼",
+        "밀티나",
+        "시나노",
+        "아이리",
+        "밀피",
+        "키펠"
+      ]
+    },
+    {
+      "id": "msujub2p57quy",
+      "name": "魔法少女プリズムリボン",
+      "shop": "かぷちやのぶーす",
+      "url": "booth.pm/ko/items/8597179",
+      "img": "https://booth.pximg.net/fb6b1fad-86c2-45e3-89e8-e117c662ecc2/i/8597179/87efba72-0271-491a-be73-ca19e948dc16_base_resized.jpg",
+      "releaseDate": "2026-07-09",
+      "category": "의상",
+      "charTags": [
+        "밀티나",
+        "밀피",
+        "마누카",
+        "쇼콜라",
+        "플럼",
+        "아이리",
+        "시나노",
+        "키펠"
+      ]
+    },
+    {
+      "id": "msujsj9mgevz5",
+      "name": "WBi",
+      "shop": "Ganger",
+      "url": "booth.pm/ko/items/8713655",
+      "img": "https://booth.pximg.net/152d348c-1557-4ab0-8ce6-d5a57790afd2/i/8713655/d52f7b9b-1ae1-43f8-8229-c8c64bb3ca40_base_resized.jpg",
+      "releaseDate": "2026-08-14",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "아이리",
+        "쇼콜라",
+        "플럼",
+        "마요",
+        "밀피",
+        "밀티나",
+        "마누카",
+        "시오"
+      ]
+    },
+    {
+      "id": "msujrchjjb0u2",
+      "name": "Soft Bun TwinTail",
+      "shop": "4o4o",
+      "url": "booth.pm/ko/items/8668612",
+      "img": "https://booth.pximg.net/fa55237d-8e28-4c51-a170-abbfb3754d09/i/8668612/2e03e159-306b-415e-bc0c-b7424761024f_base_resized.jpg",
+      "releaseDate": "2026-07-31",
+      "category": "헤어",
+      "charTags": [
+        "아이리",
+        "쇼콜라",
+        "마누카",
+        "마요",
+        "밀피",
+        "밀티나",
+        "시나노"
+      ]
+    },
+    {
+      "id": "msujq565ewmqh",
+      "name": "【♡Bubble Sailor♡】",
+      "shop": "ParfaIt",
+      "url": "booth.pm/ko/items/8685183",
+      "img": "https://booth.pximg.net/f615c3b4-9a20-4ca1-8c51-27de2b4419ee/i/8685183/9d0d58dc-908c-4267-a637-9bdbecb884fc_base_resized.jpg",
+      "releaseDate": "2026-08-08",
+      "category": "의상",
+      "charTags": [
+        "마누카",
+        "쇼콜라",
+        "플럼",
+        "시나노",
+        "시오",
+        "밀티나",
+        "루미나",
+        "아이리",
+        "마요"
+      ]
+    },
+    {
+      "id": "msu9b148zcdi1",
+      "name": "Lunoe – ルノエ –",
+      "shop": "SHOP HEILON",
+      "url": "booth.pm/ko/items/8184032",
+      "img": "https://booth.pximg.net/ae9b8a2a-8c11-423b-a091-a0b7332109d9/i/8184032/e850490f-303d-440f-8f19-094dd8b52825_base_resized.jpg",
+      "releaseDate": "2026-04-17",
+      "category": "의상",
+      "charTags": [
+        "아이리"
+      ]
+    },
+    {
+      "id": "msu9a6zuht792",
+      "name": "[Aerune]",
+      "shop": "Z9",
+      "url": "booth.pm/ko/items/8563889",
+      "img": "https://booth.pximg.net/3ed604bd-ec07-42bb-bfbb-177cbe82944a/i/8563889/059ef683-ba8e-4161-baae-bc1c8981e27a_base_resized.jpg",
+      "releaseDate": "2026-07-04",
+      "category": "의상",
+      "charTags": [
+        "아이리"
+      ]
+    },
+    {
+      "id": "msu99l6pz4ctu",
+      "name": "⛓️Zenith_Suit⛓️",
+      "shop": "velvetsky",
+      "url": "booth.pm/ko/items/8389737",
+      "img": "https://booth.pximg.net/9cef401b-c87a-471e-a3b0-fbc62975d452/i/8389737/fa5d2cf4-ef95-46dc-8998-c1367c0e3684_base_resized.jpg",
+      "releaseDate": "2026-05-21",
+      "category": "의상",
+      "charTags": [
+        "시나노"
+      ]
+    },
+    {
       "id": "msbixn7w5277m",
       "name": "Chapter One -Lily‘s secret",
       "shop": "iBuchoki",
