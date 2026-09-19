@@ -1,10 +1,721 @@
 {
   "items": [
     {
+      "id": "mu84mv7fn9i1h",
+      "name": "ピースでポンッ！ポテト出現！🍟｜To-go Fries",
+      "shop": "Chocolate rice",
+      "url": "",
+      "img": "https://booth.pximg.net/817e9a9a-020c-4fac-8b21-96f80d6e25cb/i/8866823/1a96bf38-81d8-4d6d-8143-30f14be3e2a6_base_resized.jpg",
+      "releaseDate": "2026-09-19",
+      "category": "악세사리",
+      "charTags": []
+    },
+    {
+      "id": "mu84ma3ykq94e",
+      "name": "love choice make up ♡",
+      "shop": "ʚ more Heart ɞ",
+      "url": "booth.pm/ko/items/8141443",
+      "img": "https://booth.pximg.net/aaf2d844-2340-40d0-b7b1-90d58cd62484/i/8141443/b56940cd-136a-4978-a254-08f96339582a_base_resized.jpg",
+      "releaseDate": "2026-03-31",
+      "category": "텍스쳐",
+      "charTags": [
+        "마요"
+      ]
+    },
+    {
+      "id": "mu84lqclu7njw",
+      "name": "Don't cry! - Makeup & Eye texture",
+      "shop": "Naguri",
+      "url": "booth.pm/ko/items/8693248",
+      "img": "https://booth.pximg.net/6bab76ee-56df-4de8-a0e6-da5d7ac1f152/i/8693248/64c40abc-faef-4ff4-940d-65ff38fecb3b_base_resized.jpg",
+      "releaseDate": "2026-08-08",
+      "category": "텍스쳐",
+      "charTags": [
+        "마요"
+      ]
+    },
+    {
+      "id": "mu84l218iwox1",
+      "name": "🐉煌めき🏮",
+      "shop": "RINNETOKYO",
+      "url": "booth.pm/ko/items/8853669",
+      "img": "https://booth.pximg.net/05231431-3203-4c92-a7d2-5305f52af13e/i/8853669/ff4179aa-0644-4491-b5dc-390cfdf5e33b_base_resized.jpg",
+      "releaseDate": "2026-09-16",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "밀티나",
+        "아이리",
+        "마누카",
+        "쇼콜라",
+        "플럼",
+        "밀피",
+        "루미나",
+        "마요",
+        "시오"
+      ]
+    },
+    {
+      "id": "mu84j84x58di2",
+      "name": "𝐋𝐕.𝟏𝟕 Sera_Yura ⚓",
+      "shop": "LookVook",
+      "url": "booth.pm/ko/items/8786891",
+      "img": "https://booth.pximg.net/26e7f95c-43be-4b8a-af00-9435662650e4/i/8786891/4c4dbc7d-7ace-41db-84cb-ffbc5d34b70f_base_resized.jpg",
+      "releaseDate": "2026-08-19",
+      "category": "의상",
+      "charTags": [
+        "밀티나",
+        "시나노",
+        "아이리",
+        "마요",
+        "쇼콜라",
+        "플럼",
+        "마누카",
+        "밀피",
+        "시오"
+      ]
+    },
+    {
+      "id": "mu84gq0h8wwks",
+      "name": "💝KYOEN Bunny🐰",
+      "shop": "くろねこ",
+      "url": "booth.pm/ko/items/8730042",
+      "img": "https://booth.pximg.net/1d94f226-665e-482b-90fa-b00f76b03ab9/i/8730042/e6cb7a09-b7be-4bf9-9018-48d44592a21a_base_resized.jpg",
+      "releaseDate": "2026-08-18",
+      "category": "의상",
+      "charTags": [
+        "아이리",
+        "시나노",
+        "밀티나",
+        "마누카",
+        "쇼콜라",
+        "플럼",
+        "마요",
+        "루미나",
+        "셀레스티아"
+      ]
+    },
+    {
+      "id": "mu84faf7mkb8h",
+      "name": "Moonlit Hair🌖",
+      "shop": "SOUR FLAVOR",
+      "url": "booth.pm/ko/items/8744591",
+      "img": "https://booth.pximg.net/428157be-1b8a-4d0e-a3e0-b9f7e8f7c245/i/8744591/74adc7b1-35b7-4594-b7ba-e64aaf2ae37e_base_resized.jpg",
+      "releaseDate": "2026-08-21",
+      "category": "헤어",
+      "charTags": [
+        "마누카",
+        "시오",
+        "쇼콜라",
+        "시나노",
+        "아이리",
+        "밀티나",
+        "마요",
+        "밀피"
+      ]
+    },
+    {
+      "id": "mu84eedo8vb1i",
+      "name": "Heart Baker❤️",
+      "shop": "SEI10",
+      "url": "booth.pm/ko/items/8804573",
+      "img": "https://booth.pximg.net/e48e3b66-c636-4bd6-8e12-b4a972f14093/i/8804573/3faea0ed-ac69-4dd4-92e4-bbe30a8b1772_base_resized.jpg",
+      "releaseDate": "2026-09-04",
+      "category": "의상",
+      "charTags": [
+        "아이리",
+        "쇼콜라",
+        "플럼",
+        "마누카",
+        "밀피",
+        "시오",
+        "마요",
+        "시나노"
+      ]
+    },
+    {
+      "id": "mu84c1eynrkfs",
+      "name": "Dainty Low Bun",
+      "shop": "SOUR FLAVOR",
+      "url": "booth.pm/ko/items/8828315",
+      "img": "https://booth.pximg.net/428157be-1b8a-4d0e-a3e0-b9f7e8f7c245/i/8828315/6742a8f9-75c0-4b2e-9bf6-4d69746d10fc_base_resized.jpg",
+      "releaseDate": "2026-09-11",
+      "category": "헤어",
+      "charTags": [
+        "마누카",
+        "시오",
+        "쇼콜라",
+        "시나노",
+        "아이리",
+        "밀티나",
+        "마요",
+        "밀피"
+      ]
+    },
+    {
+      "id": "mu84albw78a91",
+      "name": "🩷M.A.Y Makeup+Eye+Bodyblusher",
+      "shop": "ᴍᴀʏᴘᴏʟʏ",
+      "url": "booth.pm/ko/items/8840554",
+      "img": "https://booth.pximg.net/08c0b01a-893f-4eeb-aa53-2006454d034e/i/8840554/c06b8519-e484-45f6-b56d-7f948519406a_base_resized.jpg",
+      "releaseDate": "2026-09-13",
+      "category": "텍스쳐",
+      "charTags": [
+        "아이리",
+        "시나노",
+        "마누카",
+        "마요"
+      ]
+    },
+    {
+      "id": "mu849jganu6rp",
+      "name": "Mono Blanco",
+      "shop": "Ene Collection",
+      "url": "booth.pm/ko/items/8686330",
+      "img": "https://booth.pximg.net/70ebf4f0-7a56-45a6-bd50-359d32d604ed/i/8686330/24aae62a-54a7-4842-b3ac-a03c01716ecd_base_resized.jpg",
+      "releaseDate": "2026-08-11",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "밀티나",
+        "아이리",
+        "마요",
+        "루미나",
+        "마누카",
+        "쇼콜라",
+        "플럼",
+        "시오",
+        "밀피",
+        "셀레스티아"
+      ]
+    },
+    {
+      "id": "mu848i5wose3a",
+      "name": "💘Fall_In_Love💘",
+      "shop": "cherry neru",
+      "url": "booth.pm/ko/items/5767163",
+      "img": "https://booth.pximg.net/b1574cea-1837-4fdb-9654-27cc43c52f3a/i/5767163/bd88303a-6c27-40ed-82ff-35c8c8dfe3be_base_resized.jpg",
+      "releaseDate": "2024-05-23",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "마누카",
+        "아이리",
+        "셀레스티아",
+        "시오",
+        "쇼콜라",
+        "플럼"
+      ]
+    },
+    {
+      "id": "mu846rheeglru",
+      "name": "Rosalie Ponytail",
+      "shop": "Mellow Dolly",
+      "url": "booth.pm/ko/items/8775301",
+      "img": "https://booth.pximg.net/cd337012-4774-4746-a3fb-0e2f886912db/i/8775301/15738e12-fee7-482c-ab21-c4a4b32f3c51_base_resized.jpg",
+      "releaseDate": "2026-08-28",
+      "category": "헤어",
+      "charTags": [
+        "아이리",
+        "쇼콜라",
+        "퓨엣",
+        "루미나",
+        "마누카",
+        "마요",
+        "밀피",
+        "밀티나",
+        "시나노",
+        "시오"
+      ]
+    },
+    {
+      "id": "mu841ccgwc5re",
+      "name": "【♥Siera♥】",
+      "shop": "TiramisU",
+      "url": "booth.pm/ko/items/7914719",
+      "img": "https://booth.pximg.net/ae2afd3a-18b7-4c8e-bdc1-00aa357cded4/i/7914719/1615aacd-240b-4edf-b9ad-d8360e797118_base_resized.jpg",
+      "releaseDate": "2026-01-31",
+      "category": "의상",
+      "charTags": [
+        "마누카",
+        "쇼콜라",
+        "플럼",
+        "시나노",
+        "밀피",
+        "시오",
+        "밀티나",
+        "리나시타",
+        "아이리"
+      ]
+    },
+    {
+      "id": "mu83zr3rn9j25",
+      "name": "🐰Bunny Lumiere Setup🐰",
+      "shop": "pinohako",
+      "url": "booth.pm/ko/items/8775431",
+      "img": "https://booth.pximg.net/570d5a60-2eb6-4863-9456-b827c03bd3be/i/8775431/4d433a22-a04a-46c0-9cca-47ce13ff5844_base_resized.jpg",
+      "releaseDate": "2026-08-28",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "루미나",
+        "마요",
+        "마누카",
+        "아이리",
+        "셀레스티아",
+        "밀피",
+        "밀티나",
+        "쇼콜라",
+        "시오",
+        "퓨엣"
+      ]
+    },
+    {
+      "id": "mu83y78ggcsh7",
+      "name": "⚓Marette💙",
+      "shop": "velvetsky",
+      "url": "booth.pm/ko/items/8797527",
+      "img": "https://booth.pximg.net/9cef401b-c87a-471e-a3b0-fbc62975d452/i/8797527/f06fd873-001f-4b1b-90c6-6e39dfbfac9a_base_resized.jpg",
+      "releaseDate": "2026-09-02",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "밀티나",
+        "마누카",
+        "쇼콜라",
+        "플럼",
+        "마요",
+        "시오",
+        "밀피",
+        "아이리",
+        "루미나"
+      ]
+    },
+    {
+      "id": "mu83wdmw4t3sz",
+      "name": "ebixxx27 eye+make up texture",
+      "shop": "ebixxx",
+      "url": "booth.pm/ko/items/6977321",
+      "img": "https://booth.pximg.net/889ed295-9351-45f6-ac2c-2896329c9a57/i/6977321/c8aaf941-5434-44d6-8e18-55609a010ae8_base_resized.jpg",
+      "releaseDate": "2025-05-31",
+      "category": "텍스쳐",
+      "charTags": [
+        "시나노",
+        "키펠",
+        "마누카",
+        "밀티나",
+        "쇼콜라",
+        "밀피",
+        "마요",
+        "시오"
+      ]
+    },
+    {
+      "id": "mu83v2x6l58jh",
+      "name": "【ミルフィ-Milfy-】Twinkle Twinkle makeup texture",
+      "shop": "もちどけ屋さん",
+      "url": "booth.pm/ko/items/8696212",
+      "img": "https://booth.pximg.net/70e8c72e-5b51-461f-ab10-3df31217741c/i/8696212/10d32c5a-64ad-4cb8-b03e-4bc1f268ee55_base_resized.jpg",
+      "releaseDate": "2026-08-12",
+      "category": "텍스쳐",
+      "charTags": [
+        "밀피"
+      ]
+    },
+    {
+      "id": "mu83udt3g027u",
+      "name": "【VRChat対応】Cat_NyangHood / キャット・ニャンフッド",
+      "shop": "LooKP_Studio",
+      "url": "booth.pm/ko/items/8824475",
+      "img": "https://booth.pximg.net/aeb3ac80-03be-48ff-be44-3f71987e9ae9/i/8824475/908913aa-04a6-4ac9-a8be-c1201d1023bf_base_resized.jpg",
+      "releaseDate": "2026-09-10",
+      "category": "의상",
+      "charTags": [
+        "아이리",
+        "쇼콜라",
+        "마누카",
+        "마요",
+        "밀티나",
+        "밀피",
+        "시나노",
+        "시오"
+      ]
+    },
+    {
+      "id": "mu83jltark62y",
+      "name": "オリジナル3Dモデル「ねる-Neru-」",
+      "shop": "Meidollia-Dolls",
+      "url": "booth.pm/ko/items/8725457",
+      "img": "https://booth.pximg.net/4dec0316-2e0e-4b51-9645-8abbc059adaa/i/8725457/35d1d192-ba99-4a31-8353-ae81ede3779b_base_resized.jpg",
+      "releaseDate": "2026-08-18",
+      "category": "아바타",
+      "charTags": []
+    },
+    {
+      "id": "mtsucl3kfcoks",
+      "name": "LUNALICE",
+      "shop": "KNIVES DESIGN",
+      "url": "https://booth.pm/ko/items/7567561",
+      "img": "https://booth.pximg.net/22f99ab4-cb5f-491a-b1e9-0465fe6c6f3f/i/7567561/84bbccd4-aec2-405c-ad5b-a23bcede48c9_base_resized.jpg",
+      "releaseDate": "2025-11-03",
+      "category": "의상",
+      "charTags": [
+        "시나노"
+      ]
+    },
+    {
+      "id": "mtsuc2x14ftgn",
+      "name": "三つ編みのバンヘア",
+      "shop": "Li-ne_Shop",
+      "url": "https://booth.pm/ko/items/5733831",
+      "img": "https://booth.pximg.net/5b6f1a07-833e-4d67-818f-e32612e474ca/i/5733831/bfe1600f-aba5-40f1-bdbc-27ecd62da28c_base_resized.jpg",
+      "releaseDate": "2024-05-11",
+      "category": "헤어",
+      "charTags": [
+        "마야",
+        "셀레스티아",
+        "마누카",
+        "시오",
+        "아이리",
+        "시나노",
+        "쇼콜라",
+        "밀티나",
+        "밀피",
+        "루미나",
+        "플럼"
+      ]
+    },
+    {
+      "id": "mtsub2mkz36oc",
+      "name": "ラブリーロングヘア",
+      "shop": "Li-ne_Shop",
+      "url": "https://booth.pm/ko/items/7643173",
+      "img": "https://booth.pximg.net/5b6f1a07-833e-4d67-818f-e32612e474ca/i/7643173/725e8695-5b02-4c4b-b51d-373618083449_base_resized.jpg",
+      "releaseDate": "2025-11-13",
+      "category": "헤어",
+      "charTags": [
+        "아이리",
+        "시나노",
+        "쇼콜라",
+        "마누카",
+        "밀티나",
+        "밀피",
+        "시오",
+        "루미나",
+        "플럼",
+        "마요"
+      ]
+    },
+    {
+      "id": "mtsua7yqnhiey",
+      "name": "Shade Wolf",
+      "shop": "MariYuri",
+      "url": "https://booth.pm/ko/items/6111824",
+      "img": "https://booth.pximg.net/76f61988-1822-4fc6-a48f-31b6bcd379b7/i/6111824/0a642e9a-31a0-4536-8b3d-b7431bd4d109_base_resized.jpg",
+      "releaseDate": "2024-09-21",
+      "category": "헤어",
+      "charTags": [
+        "시나노",
+        "마누카",
+        "셀레스티아",
+        "아이리",
+        "플럼",
+        "시오",
+        "밀피",
+        "밀티나",
+        "마요"
+      ]
+    },
+    {
+      "id": "mtsu8zoaud23x",
+      "name": "sarasarashort",
+      "shop": "mochipun",
+      "url": "https://booth.pm/ko/items/8134489",
+      "img": "https://booth.pximg.net/33ba6ee1-618d-474f-ada1-91270d6bfdad/i/8134489/dc66c162-77c0-4d9f-9a41-f957948b737f_base_resized.jpg",
+      "releaseDate": "2026-03-07",
+      "category": "헤어",
+      "charTags": [
+        "쇼콜라",
+        "키펠",
+        "리나시타",
+        "루미나",
+        "플럼",
+        "밀피",
+        "마누카",
+        "시오",
+        "밀티나",
+        "시나노",
+        "아이리"
+      ]
+    },
+    {
+      "id": "mtsu74ixdp82t",
+      "name": "Daisy Glow🌼",
+      "shop": "BOUTIQUE SERINA",
+      "url": "https://booth.pm/ko/items/8566537",
+      "img": "https://booth.pximg.net/bf741607-2b35-4f29-9270-9e40a9e3e473/i/8566537/9cc1465b-030d-47ad-a926-b6c4f1f24572_base_resized.jpg",
+      "releaseDate": "2026-07-01",
+      "category": "의상",
+      "charTags": [
+        "시나노"
+      ]
+    },
+    {
+      "id": "mtsu4tejrqmod",
+      "name": "Fluffy DonutTwins🍩",
+      "shop": "SOUR FLAVOR",
+      "url": "https://booth.pm/ko/items/6156901",
+      "img": "https://booth.pximg.net/428157be-1b8a-4d0e-a3e0-b9f7e8f7c245/i/6156901/83a663b0-6e6b-4633-a448-f10d5d3f5bf4_base_resized.jpg",
+      "releaseDate": "2024-10-03",
+      "category": "헤어",
+      "charTags": [
+        "마누카",
+        "시오",
+        "쇼콜라",
+        "시나노",
+        "아이리",
+        "밀티나",
+        "마요"
+      ]
+    },
+    {
+      "id": "mtsu4020w3tue",
+      "name": "Mellow Twintail",
+      "shop": "SOUR FLAVOR",
+      "url": "https://booth.pm/ko/items/8484909",
+      "img": "https://booth.pximg.net/428157be-1b8a-4d0e-a3e0-b9f7e8f7c245/i/8484909/9856c563-d56f-4066-a85d-e9414970d0ab_base_resized.jpg",
+      "releaseDate": "2026-06-11",
+      "category": "헤어",
+      "charTags": [
+        "마누카",
+        "시오",
+        "시나노",
+        "쇼콜라",
+        "아이리",
+        "밀티나",
+        "밀피",
+        "마요"
+      ]
+    },
+    {
+      "id": "mtsu2sd8x417a",
+      "name": "Love chase Long Hair ➳♡",
+      "shop": "blurring ✩°｡⋆",
+      "url": "https://booth.pm/ko/items/7987527",
+      "img": "https://booth.pximg.net/93a5c145-0199-4d91-9dd7-cd7d80e2cf7c/i/7987527/12827a15-cd35-4501-b235-f0bc116223ea_base_resized.jpg",
+      "releaseDate": "2026-02-17",
+      "category": "헤어",
+      "charTags": [
+        "마누카",
+        "시나노",
+        "시오",
+        "쇼콜라",
+        "밀티나",
+        "밀피"
+      ]
+    },
+    {
+      "id": "mtsu20nha63bh",
+      "name": "すずかぜロング",
+      "shop": "muu(ﾑｰ)",
+      "url": "https://booth.pm/ko/items/8528011",
+      "img": "https://booth.pximg.net/6410be59-7e9e-4ffd-a5a7-58a5c72ff572/i/8528011/f8044445-11ba-4102-b8b8-3912e09f344a_base_resized.jpg",
+      "releaseDate": "2026-06-27",
+      "category": "헤어",
+      "charTags": [
+        "밀티나",
+        "마누카",
+        "쇼콜라",
+        "시오",
+        "마요",
+        "시나노",
+        "밀피",
+        "아이리",
+        "루미나"
+      ]
+    },
+    {
+      "id": "mtsu09m8dvkug",
+      "name": "TOMA TT",
+      "shop": "やも屋",
+      "url": "https://booth.pm/ko/items/8773322",
+      "img": "https://booth.pximg.net/df325303-f5bd-4f74-b79b-b04663eb9e39/i/8773322/299f9758-ecc5-4865-a71a-090d62070723_base_resized.jpg",
+      "releaseDate": "2026-08-28",
+      "category": "기타",
+      "charTags": []
+    },
+    {
+      "id": "mtstzrazx3hlr",
+      "name": "H17 おだんごツインテール",
+      "shop": "きりはら製作所",
+      "url": "https://booth.pm/ko/items/6551152",
+      "img": "https://booth.pximg.net/a47aaec0-5d3f-4a77-baa9-7e6eb2911c30/i/6551152/dcb2590d-fbea-4504-a4b0-0a7b4e428a78_base_resized.jpg",
+      "releaseDate": "2025-02-01",
+      "category": "헤어",
+      "charTags": [
+        "루미나",
+        "밀피",
+        "밀티나",
+        "쇼콜라",
+        "시나노",
+        "아이리",
+        "셀레스티아",
+        "마누카",
+        "시오"
+      ]
+    },
+    {
+      "id": "mtstyxdzvogzx",
+      "name": "Mellow Side Tail",
+      "shop": "4o4o",
+      "url": "https://booth.pm/ko/items/8775567",
+      "img": "https://booth.pximg.net/fa55237d-8e28-4c51-a170-abbfb3754d09/i/8775567/dd54c2fb-a5f3-4f62-a36e-3c249ead0b2e_base_resized.jpg",
+      "releaseDate": "2026-08-28",
+      "category": "헤어",
+      "charTags": [
+        "아이리",
+        "쇼콜라",
+        "마누카",
+        "마요",
+        "밀피",
+        "밀티나",
+        "시나노"
+      ]
+    },
+    {
+      "id": "mtstxtiu4wqry",
+      "name": "⛩️ YoruEn ⛩️",
+      "shop": "LOVACE",
+      "url": "https://booth.pm/ko/items/8729524",
+      "img": "https://booth.pximg.net/0a8632cd-de12-4eeb-8f82-9c21a0f46a42/i/8729524/51fdaee5-5594-4bab-9a18-7624bcec6262_base_resized.jpg",
+      "releaseDate": "2026-08-23",
+      "category": "의상",
+      "charTags": [
+        "마요",
+        "루미나",
+        "시나노",
+        "아이리"
+      ]
+    },
+    {
+      "id": "mtstvwmcv7exn",
+      "name": "🎓 St. Blair 🎓",
+      "shop": "LOVACE",
+      "url": "https://booth.pm/ko/items/8634026",
+      "img": "https://booth.pximg.net/0a8632cd-de12-4eeb-8f82-9c21a0f46a42/i/8634026/c536aec3-a125-4032-964a-4f280c52c37b_base_resized.jpg",
+      "releaseDate": "2026-07-25",
+      "category": "의상",
+      "charTags": [
+        "루미나",
+        "밀티나",
+        "시나노"
+      ]
+    },
+    {
+      "id": "mtstv4sj4qkoe",
+      "name": "♥HAIR♥ Honey Curling ♥",
+      "shop": "♥MM♥",
+      "url": "https://booth.pm/ko/items/8715159",
+      "img": "https://booth.pximg.net/c30612ea-2444-4c94-a95a-5a2f1e588c4f/i/8715159/b6e38e30-0396-4b26-a553-d83665809fb3_base_resized.jpg",
+      "releaseDate": "2026-08-19",
+      "category": "헤어",
+      "charTags": [
+        "키펠",
+        "마요",
+        "시나노",
+        "마누카",
+        "쇼콜라",
+        "플럼",
+        "밀피",
+        "퓨엣",
+        "밀티나",
+        "아이리",
+        "루미나"
+      ]
+    },
+    {
+      "id": "mtstu556709wm",
+      "name": "★Muted Bob Hair★",
+      "shop": "Yune-Yune",
+      "url": "https://booth.pm/ko/items/8744244",
+      "img": "https://booth.pximg.net/1339a8a2-70bf-40d4-b3c1-fd0156ed6365/i/8744244/e6ada177-62fa-4943-ada4-d6d5add161aa_base_resized.jpg",
+      "releaseDate": "2026-08-21",
+      "category": "헤어",
+      "charTags": [
+        "플럼",
+        "마요",
+        "밀피",
+        "쇼콜라",
+        "마누카",
+        "시나노",
+        "시오",
+        "아이리"
+      ]
+    },
+    {
+      "id": "mtstt1vysr4sx",
+      "name": "Cotton Twintail ☁️",
+      "shop": "SOUR FLAVOR",
+      "url": "https://booth.pm/ko/items/8690166",
+      "img": "https://booth.pximg.net/428157be-1b8a-4d0e-a3e0-b9f7e8f7c245/i/8690166/0bca7758-0b2a-433e-8b86-dd4670e6ce1a_base_resized.jpg",
+      "releaseDate": "2026-08-06",
+      "category": "헤어",
+      "charTags": [
+        "마누카",
+        "시오",
+        "쇼콜라",
+        "시나노",
+        "아이리",
+        "밀티나",
+        "마요",
+        "밀피"
+      ]
+    },
+    {
+      "id": "mtstqlpoiwcl8",
+      "name": "♡⑅ Mococo Hair ⑅♡",
+      "shop": "WishList",
+      "url": "https://booth.pm/ko/items/8727562",
+      "img": "https://booth.pximg.net/2b00a3b2-ee8b-4534-b8fa-bc18dba489bd/i/8727562/b441b540-7f3d-4790-b9bd-e8876b0facee_base_resized.jpg",
+      "releaseDate": "2026-08-17",
+      "category": "헤어",
+      "charTags": [
+        "마요",
+        "시나노",
+        "플럼",
+        "루미나",
+        "밀티나",
+        "밀피",
+        "마누카",
+        "아이리",
+        "쇼콜라",
+        "시오"
+      ]
+    },
+    {
+      "id": "mtstop6dhmxbj",
+      "name": "NyamMemoly Bloom",
+      "shop": "Nya!byte",
+      "url": "https://booth.pm/ko/items/8703141",
+      "img": "https://booth.pximg.net/668e4a68-7114-4f30-b918-6e77152f5ef3/i/8703141/e1aa85c6-6a0b-485d-bc48-d636311581e1_base_resized.jpg",
+      "releaseDate": "2026-08-15",
+      "category": "의상",
+      "charTags": [
+        "시나노",
+        "마누카",
+        "밀티나",
+        "쇼콜라",
+        "밀피",
+        "마요",
+        "시오",
+        "아이리"
+      ]
+    },
+    {
       "id": "msujy4t1yc911",
       "name": "Side Half Bun",
       "shop": "Eoshop",
-      "url": "booth.pm/ko/items/8688932",
+      "url": "https://booth.pm/ko/items/8688932",
       "img": "https://booth.pximg.net/e099eff3-f1a5-450d-a0ec-796ef6da9778/i/8688932/f4fce547-4b47-44d6-ba78-0a4a8da1912a_base_resized.jpg",
       "releaseDate": "2026-08-14",
       "category": "헤어",
@@ -24,7 +735,7 @@
       "id": "msujwo12ssng6",
       "name": "booth.pm/ko/items/7337655",
       "shop": "Midnight",
-      "url": "YM STORE",
+      "url": "https://YM STORE",
       "img": "https://booth.pximg.net/1e846578-b646-4d35-8cf6-85e167590721/i/7337655/a9b7ae3f-3ddf-43ed-a4af-7832ede2e0a6_base_resized.jpg",
       "releaseDate": "2025-08-23",
       "category": "헤어",
@@ -46,7 +757,7 @@
       "id": "msujvkhjfc555",
       "name": "🐾 Puppy Mallow 🐾",
       "shop": "YM STORE",
-      "url": "booth.pm/ko/items/8341478",
+      "url": "https://booth.pm/ko/items/8341478",
       "img": "https://booth.pximg.net/1e846578-b646-4d35-8cf6-85e167590721/i/8341478/22fc3e5e-c465-4554-a812-9fa624f52116_base_resized.jpg",
       "releaseDate": "2026-05-10",
       "category": "헤어",
@@ -68,7 +779,7 @@
       "id": "msujub2p57quy",
       "name": "魔法少女プリズムリボン",
       "shop": "かぷちやのぶーす",
-      "url": "booth.pm/ko/items/8597179",
+      "url": "https://booth.pm/ko/items/8597179",
       "img": "https://booth.pximg.net/fb6b1fad-86c2-45e3-89e8-e117c662ecc2/i/8597179/87efba72-0271-491a-be73-ca19e948dc16_base_resized.jpg",
       "releaseDate": "2026-07-09",
       "category": "의상",
@@ -87,7 +798,7 @@
       "id": "msujsj9mgevz5",
       "name": "WBi",
       "shop": "Ganger",
-      "url": "booth.pm/ko/items/8713655",
+      "url": "https://booth.pm/ko/items/8713655",
       "img": "https://booth.pximg.net/152d348c-1557-4ab0-8ce6-d5a57790afd2/i/8713655/d52f7b9b-1ae1-43f8-8229-c8c64bb3ca40_base_resized.jpg",
       "releaseDate": "2026-08-14",
       "category": "의상",
@@ -107,7 +818,7 @@
       "id": "msujrchjjb0u2",
       "name": "Soft Bun TwinTail",
       "shop": "4o4o",
-      "url": "booth.pm/ko/items/8668612",
+      "url": "https://booth.pm/ko/items/8668612",
       "img": "https://booth.pximg.net/fa55237d-8e28-4c51-a170-abbfb3754d09/i/8668612/2e03e159-306b-415e-bc0c-b7424761024f_base_resized.jpg",
       "releaseDate": "2026-07-31",
       "category": "헤어",
@@ -125,7 +836,7 @@
       "id": "msujq565ewmqh",
       "name": "【♡Bubble Sailor♡】",
       "shop": "ParfaIt",
-      "url": "booth.pm/ko/items/8685183",
+      "url": "https://booth.pm/ko/items/8685183",
       "img": "https://booth.pximg.net/f615c3b4-9a20-4ca1-8c51-27de2b4419ee/i/8685183/9d0d58dc-908c-4267-a637-9bdbecb884fc_base_resized.jpg",
       "releaseDate": "2026-08-08",
       "category": "의상",
@@ -145,7 +856,7 @@
       "id": "msu9b148zcdi1",
       "name": "Lunoe – ルノエ –",
       "shop": "SHOP HEILON",
-      "url": "booth.pm/ko/items/8184032",
+      "url": "https://booth.pm/ko/items/8184032",
       "img": "https://booth.pximg.net/ae9b8a2a-8c11-423b-a091-a0b7332109d9/i/8184032/e850490f-303d-440f-8f19-094dd8b52825_base_resized.jpg",
       "releaseDate": "2026-04-17",
       "category": "의상",
@@ -157,7 +868,7 @@
       "id": "msu9a6zuht792",
       "name": "[Aerune]",
       "shop": "Z9",
-      "url": "booth.pm/ko/items/8563889",
+      "url": "https://booth.pm/ko/items/8563889",
       "img": "https://booth.pximg.net/3ed604bd-ec07-42bb-bfbb-177cbe82944a/i/8563889/059ef683-ba8e-4161-baae-bc1c8981e27a_base_resized.jpg",
       "releaseDate": "2026-07-04",
       "category": "의상",
@@ -169,7 +880,7 @@
       "id": "msu99l6pz4ctu",
       "name": "⛓️Zenith_Suit⛓️",
       "shop": "velvetsky",
-      "url": "booth.pm/ko/items/8389737",
+      "url": "https://booth.pm/ko/items/8389737",
       "img": "https://booth.pximg.net/9cef401b-c87a-471e-a3b0-fbc62975d452/i/8389737/fa5d2cf4-ef95-46dc-8998-c1367c0e3684_base_resized.jpg",
       "releaseDate": "2026-05-21",
       "category": "의상",
@@ -1518,24 +2229,6 @@
       "category": "악세사리",
       "charTags": [
         "마누카"
-      ]
-    },
-    {
-      "id": "mq169v850hm4b",
-      "name": "【10 avatars】【VRC Hair】♥ Ivy_Hair ♥",
-      "shop": "Nanaha",
-      "url": "https://booth.pm/ko/items/6537462",
-      "img": "https://booth.pximg.net/48ebe0c6-8767-42a8-a880-1c0164a7a48d/i/6537462/0b157a3e-3d8e-4531-9744-9d406e8688d2_base_resized.jpg",
-      "releaseDate": "2025-01-28",
-      "category": "헤어",
-      "charTags": [
-        "아이리",
-        "쇼콜라",
-        "마누카",
-        "밀피",
-        "밀티나",
-        "시나노",
-        "시오"
       ]
     },
     {
